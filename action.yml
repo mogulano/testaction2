@@ -1,0 +1,6 @@
+name: 'test'
+description: 'test Action'
+
+runs:
+  using: 'node16'
+  main: 'index.js'
